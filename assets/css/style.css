@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* corrected the header nav to a sementic element */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* corrected the header nav to a sementic element */
 .header nav ul {
     list-style-type: none;
 }
-
+/* corrected the header nav to a sementic element */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
